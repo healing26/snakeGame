@@ -1,0 +1,28 @@
+.map{
+    width: 800px;
+    height: 600px;
+    position: absolute;
+    background-color: #bbb;
+}
+.box{
+    width: 800px;
+    height:620px;
+    position: relative;
+}
+.gmOver{
+    color: red;
+    position: absolute;
+    left: 0;
+    display: block;
+    bottom: 0;
+
+}
+.point{
+    color: green;
+    position: absolute;
+    height: 20px;
+    right: 0;
+    display: block;
+    bottom: 0;
+
+}
